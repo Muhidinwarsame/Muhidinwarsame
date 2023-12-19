@@ -1,8 +1,7 @@
-### Hi there friends 👋
+# Wireless Hacking 01
+I explored into wireless penetration testing, I’ve configured an Alfa wireless network and wanted to share quick notes on essential concepts:
 
-<!--
-**Muhidinwarsame/Muhidinwarsame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I’m currently working on my cloud projects.
-- 🌱 I’m currently learning Microsoft Azure Cloud security.
-- 👯 I’m looking to collaborate with engineers who have similar professionals.
-- 🤔 I’m looking for more cloud and security resources to enhance my professional skills.
+Wi-Fi MAC address change, manage mode, monitoring mode, and Airodump-ng.
+
+This is for educational and training purposes only.
+Please check out the rest of the article here: https://eyecloudsolution.com/2023/12/17/wireless-hacking-01/
